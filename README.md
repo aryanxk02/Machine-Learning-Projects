@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-Problem statements solved through ML Algorithms using sklearn. This repository contains some basic datasets used to understand ML concepts relatively in an easy manner
+# Visualization Tools
+Data viz through Matplotlib functions. This repository contains some basic datasets used to understand viz tools I encountered intilially as a beginner.
